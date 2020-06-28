@@ -14,7 +14,7 @@ export const Container = styled.button<Props>`
 
   margin-bottom: 8px;
 
-  background-color: ${props => props.isHome ? 'var(--rocketseat)' : 'var(--primary)'};
+  background-color: ${props => props.isHome ? '#A8ADF0' : 'var(--primary)'};
 
   cursor: pointer;
   position: relative;

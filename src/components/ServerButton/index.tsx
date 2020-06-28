@@ -21,7 +21,7 @@ const ServerButton: React.FC<Props> = (props: Props) => {
     >
       {isHome && (
         <img
-          src="https://rocketseat.com.br/static/images/logo-rocketseat.svg"
+          src="https://image.flaticon.com/icons/svg/356/356060.svg"
           alt="Logo"
         />
       )}
